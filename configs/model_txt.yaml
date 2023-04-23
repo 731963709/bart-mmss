@@ -1,0 +1,23 @@
+# optional
+modelName: "OnlyText"
+multimodel: False
+only_txt: True
+only_img: False
+
+# Others
+seed: 1234
+use_cuda: True
+
+# Data
+data: '../Lin_MINE_data/'
+logdir: '../experiments/'
+eval_interval: True
+save_interval: True
+max_time_step: 20
+metrics: ['rouge']
+label_smoothing: 0.1
+
+# Optimization
+epoch: 500
+beta1: 0.9
+beta2: 0.998

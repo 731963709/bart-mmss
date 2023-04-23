@@ -1,0 +1,23 @@
+# optional
+modelName: "OnlyImg"
+multimodel: False
+only_txt: False
+only_img: True
+
+# Others
+seed: 1234
+use_cuda: True
+
+# Data
+data: '../Lin_MINE_data/'
+logdir: '../experiments/'
+eval_interval: True
+save_interval: True
+
+metrics: ['rouge']
+label_smoothing: 0.1
+
+# Optimization
+epoch: 5
+beta1: 0.9
+beta2: 0.998

@@ -1,6 +1,8 @@
 # BART-MMSS
 [![](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/) [![CC BY 4.0][cc-by-shield]][cc-by]
+
 [[Paper]](https://doi.org/10.1145/3539618.3591633) accepted at the SIGIR 2023:
+
 **Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization**, by Dengtian Lin, [Liqiang Jing](https://liqiangjing.github.io/), [Xuemeng Song](https://xuemengsong.github.io/), [Meng Liu](https://mengliu1991.github.io/), [Teng Sun](https://teng-sun.github.io/), [Liqiang Nie](https://liqiangnie.github.io/).
 
 ## Abstract

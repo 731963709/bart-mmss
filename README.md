@@ -22,3 +22,21 @@ we chose the [Multimodal Sentence Summarization(MMSS)](https://github.com/ZNLP/Z
 
 # Citations
 if you find bart-mmss models helpful, feel free to cite the following publication:
+```
+@inproceedings{bart-mmss,
+  author       = {Dengtian Lin and
+                  Liqiang Jing and
+                  Xuemeng Song and
+                  Meng Liu and
+                  Teng Sun and
+                  Liqiang Nie},
+  title        = {Adapting Generative Pretrained Language Model for Open-domain Multimodal
+                  Sentence Summarization},
+  booktitle    = {Proceedings of the 46th International {ACM} {SIGIR} Conference on
+                  Research and Development in Information Retrieval, {SIGIR} 2023, Taipei,
+                  Taiwan, July 23-27, 2023},
+  pages        = {195--204},
+  publisher    = {{ACM}},
+  year         = {2023},
+}
+```
